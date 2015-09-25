@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+	TCRIT("::Debugg:: AAAAAAAAAAAAAAAAAA ---> %s  \n",IPAddress2);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tcrit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
