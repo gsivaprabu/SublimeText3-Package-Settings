@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	TCRIT("::Debugg:: AAAAAAAAAAAAAAAAAA ---> %s  \n",IPAddress2);
+	TCRIT("::Debugg:: AAAAAAAAAAAAA ---> %s  \n",IPAddress2);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>tcrit</tabTrigger>
