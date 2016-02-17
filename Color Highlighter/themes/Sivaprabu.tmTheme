@@ -22808,7 +22808,7 @@
 				<key>lineHighlight</key>
 				<string>#FFFFFF0D</string>
 				<key>selection</key>
-				<string>#DDF0FF33</string>
+				<string>#ff0000</string>
 			</dict>
 		</dict>
 		<dict>
