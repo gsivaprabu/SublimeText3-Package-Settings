@@ -1,0 +1,40 @@
+{
+    "files": [],
+    "groups": {
+        "0TESTING": [
+            "E:\\xampp\\htdocs\\sivaprabug\\html.html",
+            "E:\\xampp\\htdocs\\sivaprabug\\js.html",
+            "E:\\xampp\\htdocs\\sivaprabug\\jq.html",
+            "E:\\xampp\\htdocs\\sivaprabug\\php.php",
+            "E:\\xampp\\htdocs\\sivaprabug\\css.html"
+        ],
+        "0TIPS": [
+            "E:\\SIVA\\commands\\tips.md"
+        ],
+        "BMC": [
+            "E:\\SIVA\\commands\\BMC.md",
+            "E:\\SIVA\\commands\\ipmi tool trigger event.md"
+        ],
+        "EIP": [
+            "E:\\SIVA\\commands\\EIP.md"
+        ],
+        "NFS": [
+            "E:\\SIVA\\commands\\NFS Mount.md"
+        ],
+        "REVIEW BOARD": [
+            "E:\\SIVA\\commands\\Test.md",
+            "E:\\SIVA\\commands\\Description.md",
+            "E:\\SIVA\\commands\\ReviewBoard.md"
+        ],
+        "STUDY": [
+            "E:\\xampp\\htdocs\\sivaprabug\\Github\\Javascript-interview-programms-tasks-on-paper-or-machine\\JavaScript Notes\\JavaScript Notes.md"
+        ],
+        "SVN": [
+            "E:\\SIVA\\commands\\svn.md"
+        ],
+        "WORK RELATED": [
+            "E:\\SIVA\\commands\\works.md"
+        ]
+    },
+    "version": 1
+}

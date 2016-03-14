@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-	 console.log("XXXXXXXXXXXXXXXXXXXXXXXX");
 	 console.log(xxxxxxxxxxxxxxxxxxx);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
