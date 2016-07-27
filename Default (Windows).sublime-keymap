@@ -10,5 +10,8 @@
     { 	"keys": ["f5"],
     	  "command": "refresh_folder_list"
     },
+    { 	"keys": ["f2"],
+    	  "command": "select_favorite_file"
+    },
     { "keys": [ "ctrl+alt+c" ], "command": "view_in_browser", "args": { "browser": "chrome" } }
 ]
