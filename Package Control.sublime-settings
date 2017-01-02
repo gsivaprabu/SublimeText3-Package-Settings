@@ -9,10 +9,13 @@
 		"BracketHighlighter",
 		"Color Highlighter",
 		"ColorPicker",
-		"DocBlockr",
+		"Console Wrap for js",
 		"Emmet",
 		"FavoriteFiles",
 		"Gist",
+		"Google Search",
+		"Grunt",
+		"Gulp",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"JavaScriptNext - ES6 Syntax",
@@ -22,9 +25,12 @@
 		"Open URL",
 		"Package Control",
 		"Pretty JSON",
-		"Search Anywhere",
+		"SendToPasteBin",
 		"SideBarEnhancements",
 		"SortBy",
-		"Trimmer"
+		"Text Pastry",
+		"Trimmer",
+		"TypeScript",
+		"View In Browser"
 	]
 }
