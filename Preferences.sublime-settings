@@ -6,7 +6,7 @@
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Color Highlighter/themes/Sivaprabu.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
 	"detect_indentation": false,
 	"draw_minimap_border": true,
 	"draw_white_space": "selection",
